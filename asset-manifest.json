@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1d1cf42a.chunk.css",
-    "main.js": "/static/js/main.e09a2f8f.chunk.js",
-    "main.js.map": "/static/js/main.e09a2f8f.chunk.js.map",
+    "main.js": "/static/js/main.c59a3cde.chunk.js",
+    "main.js.map": "/static/js/main.c59a3cde.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b27a7476.js",
     "runtime-main.js.map": "/static/js/runtime-main.b27a7476.js.map",
     "static/js/2.a670494c.chunk.js": "/static/js/2.a670494c.chunk.js",
     "static/js/2.a670494c.chunk.js.map": "/static/js/2.a670494c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.38f0d09a1e88bb774bb855efb7f07eec.js": "/precache-manifest.38f0d09a1e88bb774bb855efb7f07eec.js",
+    "precache-manifest.1adfd2b944acccae88ad736ff95aaa7c.js": "/precache-manifest.1adfd2b944acccae88ad736ff95aaa7c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1d1cf42a.chunk.css.map": "/static/css/main.1d1cf42a.chunk.css.map",
     "static/media/back-btn.png": "/static/media/back-btn.6ede6a0b.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.b27a7476.js",
     "static/js/2.a670494c.chunk.js",
     "static/css/main.1d1cf42a.chunk.css",
-    "static/js/main.e09a2f8f.chunk.js"
+    "static/js/main.c59a3cde.chunk.js"
   ]
 }
